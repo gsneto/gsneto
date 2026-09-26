@@ -26,9 +26,25 @@ Desenvolvedor de backend e sistemas de dados. Construo APIs, pipelines e ferrame
   <img src="https://img.shields.io/badge/-SQLite-0b1220?style=flat-square&logo=sqlite&logoColor=22D3EE" />
 </p>
 
-**Systems**
+**Systems languages**
 <p>
   <img src="https://img.shields.io/badge/-C%2B%2B-0b1220?style=flat-square&logo=cplusplus&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/-C%23-0b1220?style=flat-square&logo=csharp&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/-Rust-0b1220?style=flat-square&logo=rust&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/-Go-0b1220?style=flat-square&logo=go&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-Python-0b1220?style=flat-square&logo=python&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-x86%2Fx64%20asm-0b1220?style=flat-square&logoColor=E2E8F0" />
+</p>
+
+**Security research** &nbsp;·&nbsp; <sub>Windows + Linux</sub>
+<p>
+  <img src="https://img.shields.io/badge/-Malware%20analysis-0b1220?style=flat-square&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-Reverse%20engineering-0b1220?style=flat-square&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-Phishing%20kit%20teardowns-0b1220?style=flat-square&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/-Process%20injection-0b1220?style=flat-square&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/-Shellcode-0b1220?style=flat-square&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/-API%20hooking-0b1220?style=flat-square&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/-Syscall%20stubs-0b1220?style=flat-square&logoColor=A78BFA" />
 </p>
 
 **Frontend**
