@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="./.github/assets/header.svg" alt="Antonio Neto — backend, data, quantitative systems" width="100%"/>
+<img src="https://raw.githubusercontent.com/gsneto/gsneto/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
 
-<a href="https://github.com/gsneto">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=560&lines=building+APIs%2C+data+pipelines+and+quant+tools;Python+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+PostgreSQL;shipping+real+software%2C+not+demos" alt="focus"/>
-</a>
+<img src="./.github/assets/header.svg" alt="Antonio Neto — backend, data, quantitative systems" width="100%"/>
 
 </div>
 
@@ -79,10 +77,6 @@ Desenvolvedor de backend e sistemas de dados. Construo APIs, pipelines e ferrame
 <img src="https://streak-stats.demolab.com?user=gsneto&hide_border=true&background=0b1220&stroke=0b1220&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=cbd5e1&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" height="165" alt="streak"/>
 
 <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=gsneto&layout=compact&hide_border=true&bg_color=0b1220&title_color=22D3EE&text_color=cbd5e1&langs_count=8" height="165" alt="top languages"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/gsneto/gsneto/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
 
 </div>
 
