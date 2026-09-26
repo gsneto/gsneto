@@ -1,4 +1,16 @@
-## Sobre mim
+<div align="center">
+
+<img src="./.github/assets/header.svg" alt="Antonio Neto — backend, data, quantitative systems" width="100%"/>
+
+<a href="https://github.com/gsneto">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=560&lines=building+APIs%2C+data+pipelines+and+quant+tools;Python+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+PostgreSQL;shipping+real+software%2C+not+demos" alt="focus"/>
+</a>
+
+</div>
+
+---
+
+### About
 
 Desenvolvedor de backend e sistemas de dados. Construo APIs, pipelines e ferramentas que resolvem problemas reais — do modelo estatístico ao produto final.
 
@@ -8,21 +20,50 @@ Desenvolvedor de backend e sistemas de dados. Construo APIs, pipelines e ferrame
 
 ### Stack
 
-**Backend** &nbsp;·&nbsp; Python &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Flask &nbsp;·&nbsp; SQLAlchemy &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; SQLite
-**Frontend** &nbsp;·&nbsp; React &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Vite &nbsp;·&nbsp; Expo
-**Dados & IA** &nbsp;·&nbsp; modelagem estatística &nbsp;·&nbsp; algoritmos de busca &nbsp;·&nbsp; meta-heurísticas &nbsp;·&nbsp; inferência bayesiana
-**Infra** &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Vercel &nbsp;·&nbsp; Railway &nbsp;·&nbsp; SSE / WebSockets
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/-Python-0b1220?style=flat-square&logo=python&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-FastAPI-0b1220?style=flat-square&logo=fastapi&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-Flask-0b1220?style=flat-square&logo=flask&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/-SQLAlchemy-0b1220?style=flat-square&logo=sqlalchemy&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-0b1220?style=flat-square&logo=postgresql&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-SQLite-0b1220?style=flat-square&logo=sqlite&logoColor=22D3EE" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/-React-0b1220?style=flat-square&logo=react&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-TypeScript-0b1220?style=flat-square&logo=typescript&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/-Vite-0b1220?style=flat-square&logo=vite&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/-Expo-0b1220?style=flat-square&logo=expo&logoColor=E2E8F0" />
+</p>
+
+**Data & AI**
+<p>
+  <img src="https://img.shields.io/badge/-Statistical%20modeling-0b1220?style=flat-square&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-Search%20algorithms-0b1220?style=flat-square&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-Bayesian%20inference-0b1220?style=flat-square&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-Metaheuristics-0b1220?style=flat-square&logoColor=22D3EE" />
+</p>
+
+**Infra**
+<p>
+  <img src="https://img.shields.io/badge/-Docker-0b1220?style=flat-square&logo=docker&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-Vercel-0b1220?style=flat-square&logo=vercel&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/-Railway-0b1220?style=flat-square&logo=railway&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/-SSE%20%2F%20WebSockets-0b1220?style=flat-square&logoColor=A78BFA" />
+</p>
 
 ---
 
-### Construindo agora
+### Building now
 
 - **BETGSN** — terminal de odds esportivas em tempo real: captura contínua de múltiplos providers, modelo estatístico próprio, fair market, line-shopping, sinais explicáveis via SSE e backtest walk-forward.
 - **Ritmo** — organizador pessoal (hábitos, tarefas, treinos, finanças, leitura) com backend FastAPI + SQLAlchemy e frontend React.
 
 ---
 
-### Projetos
+### Projects
 
 - [**ritmo**](https://github.com/gsneto/ritmo) — app pessoal de hábitos e rotina (React + FastAPI + PostgreSQL)
 - [**caatinga-ai-sprint1**](https://github.com/gsneto/caatinga-ai-sprint1) — agente de busca em ambiente com custos: BFS, DFS, UCS, A*, subida de encosta, têmpera simulada e Bayes
@@ -30,4 +71,19 @@ Desenvolvedor de backend e sistemas de dados. Construo APIs, pipelines e ferrame
 
 ---
 
-<sub>Backend · Dados · Sistemas quantitativos</sub>
+### Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gsneto&show_icons=true&hide_border=true&hide=issues&count_private=true&include_all_commits=true&bg_color=0b1220&title_color=22D3EE&icon_color=A78BFA&text_color=cbd5e1&ring_color=22D3EE" height="165" alt="stats"/>
+<img src="https://streak-stats.demolab.com?user=gsneto&hide_border=true&background=0b1220&stroke=0b1220&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=cbd5e1&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" height="165" alt="streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsneto&layout=compact&hide_border=true&bg_color=0b1220&title_color=22D3EE&text_color=cbd5e1&langs_count=8" height="165" alt="top languages"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/gsneto/gsneto/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
+
+</div>
+
+<div align="center"><sub>Backend · Data · Quantitative Systems</sub></div>
