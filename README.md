@@ -75,10 +75,10 @@ Desenvolvedor de backend e sistemas de dados. Construo APIs, pipelines e ferrame
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gsneto&show_icons=true&hide_border=true&hide=issues&count_private=true&include_all_commits=true&bg_color=0b1220&title_color=22D3EE&icon_color=A78BFA&text_color=cbd5e1&ring_color=22D3EE" height="165" alt="stats"/>
+<img src="https://github-readme-stats.hackclub.dev/api?username=gsneto&show_icons=true&hide_border=true&hide=issues&count_private=true&include_all_commits=true&bg_color=0b1220&title_color=22D3EE&icon_color=A78BFA&text_color=cbd5e1&ring_color=22D3EE" height="165" alt="stats"/>
 <img src="https://streak-stats.demolab.com?user=gsneto&hide_border=true&background=0b1220&stroke=0b1220&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=cbd5e1&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" height="165" alt="streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsneto&layout=compact&hide_border=true&bg_color=0b1220&title_color=22D3EE&text_color=cbd5e1&langs_count=8" height="165" alt="top languages"/>
+<img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=gsneto&layout=compact&hide_border=true&bg_color=0b1220&title_color=22D3EE&text_color=cbd5e1&langs_count=8" height="165" alt="top languages"/>
 
 <br/><br/>
 
