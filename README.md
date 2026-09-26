@@ -61,6 +61,7 @@ Desenvolvedor de backend e sistemas de dados. Construo APIs, pipelines e ferrame
 
 ### Projects
 
+- [**pratinho-pronto**](https://github.com/gsneto/pratinho-pronto) — app de cardápio infantil e introdução alimentar (React + TypeScript + Vite + Tailwind + Supabase, PWA instalável)
 - [**ritmo**](https://github.com/gsneto/ritmo) — app pessoal de hábitos e rotina (React + FastAPI + PostgreSQL)
 - [**caatinga-ai-sprint1**](https://github.com/gsneto/caatinga-ai-sprint1) — agente de busca em ambiente com custos: BFS, DFS, UCS, A*, subida de encosta, têmpera simulada e Bayes
 - [**busca-brasileirao**](https://github.com/gsneto/busca-brasileirao) — app Expo que consulta partidas do Brasileirão pela API da ESPN
