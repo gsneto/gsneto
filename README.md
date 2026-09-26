@@ -26,6 +26,11 @@ Desenvolvedor de backend e sistemas de dados. Construo APIs, pipelines e ferrame
   <img src="https://img.shields.io/badge/-SQLite-0b1220?style=flat-square&logo=sqlite&logoColor=22D3EE" />
 </p>
 
+**Systems**
+<p>
+  <img src="https://img.shields.io/badge/-C%2B%2B-0b1220?style=flat-square&logo=cplusplus&logoColor=A78BFA" />
+</p>
+
 **Frontend**
 <p>
   <img src="https://img.shields.io/badge/-React-0b1220?style=flat-square&logo=react&logoColor=22D3EE" />
