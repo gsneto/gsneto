@@ -1,4 +1,4 @@
-## Antonio Gomes Souza Neto
+## Sobre mim
 
 Desenvolvedor de backend e sistemas de dados. Construo APIs, pipelines e ferramentas que resolvem problemas reais — do modelo estatístico ao produto final.
 
