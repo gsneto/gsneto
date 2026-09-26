@@ -89,10 +89,4 @@ Desenvolvedor de backend e sistemas de dados. Construo APIs, pipelines e ferrame
 
 ---
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=gsneto&hide_border=true&background=0b1220&stroke=0b1220&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=cbd5e1&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" height="165" alt="streak"/>
-
-<sub>Backend · Data · Quantitative Systems</sub>
-
-</div>
+<div align="center"><sub>Backend · Data · Quantitative Systems</sub></div>
