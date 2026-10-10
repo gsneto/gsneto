@@ -4,13 +4,6 @@
 
 </div>
 
----
-
-### About
-
-Desenvolvedor de backend e sistemas de dados. Construo APIs, pipelines e ferramentas que resolvem problemas reais — do modelo estatístico ao produto final.
-
-**Foco atual:** backend em Python, sistemas quantitativos e produtos full-stack com React.
 
 ---
 
